@@ -10,7 +10,7 @@
 </p>
 
 # Hi there 👋 , I'm Alauddin Afif Cassandra!
-I specialize in Front End Web Engineer & Mobile Hybrid Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
+Im specialize in Front End Web Engineer & Mobile Hybrid Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
 
 ### About Me:
  <summary><strong>What i am learning/working on these days</strong></summary>
