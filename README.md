@@ -6,7 +6,6 @@
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
- https://aacassandra-github.firebaseapp.com/#/
  <a href="https://aacassandra-github.firebaseaoo.com">https://aacassandra-github.web.app</a><br>
 </p>
 
