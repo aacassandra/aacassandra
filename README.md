@@ -6,7 +6,7 @@
  💎 💎 💎 </br>
  Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
- <a href="https://aacassandra-github.firebaseaoo.com">https://aacassandra-github.web.app</a><br>
+ <a href="https://aacassandra-github.firebaseapp.com">https://aacassandra-github.web.app</a><br>
 </p>
 
 # Hi there 👋 , I'm Alauddin Afif Cassandra!
